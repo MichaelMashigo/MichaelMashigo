@@ -1,0 +1,10 @@
+michael@mashigo:~$ cd Home
+bash: cd: Home: No such file or directory
+michael@mashigo:~$ cd /Home
+bash: cd: /Home: No such file or directory
+michael@mashigo:~$ cd Documents
+michael@mashigo:~/Documents$ cd Downloads
+bash: cd: Downloads: No such file or directory
+michael@mashigo:~/Documents$ cd /Downloads
+bash: cd: /Downloads: No such file directory
+michael@mashigo:~/Documents$
